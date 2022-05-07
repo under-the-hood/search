@@ -27,3 +27,5 @@ and generate answers.
 ### Collections
 
 - https://github.com/algolia/awesome-algolia
+
+<p align="right">made with ❤️ for everyone by <a href="https://www.octolab.org/">OctoLab</a></p>
