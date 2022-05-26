@@ -1,8 +1,6 @@
 # 🔍 Full-text engines research
 
-Using full-text engines to search for information in
-[PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management)
-and generate answers.
+Using full-text engines to search for information in PKM[^1] and generate answers.
 
 ## Resources
 
@@ -29,3 +27,5 @@ and generate answers.
 - https://github.com/algolia/awesome-algolia
 
 <p align="right">made with ❤️ for everyone by <a href="https://www.octolab.org/">OctoLab</a></p>
+
+[^1]: personal knowledge management, see the article above
