@@ -1,0 +1,12 @@
+version: "3.5"
+
+services:
+  search:
+    image: qdrant/qdrant:v1.6.1
+    ports:
+      - "6333:6333"
+    restart: "no"
+      - data:/qdrant/storage
+
+volumes:
+  data:

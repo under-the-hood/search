@@ -7,6 +7,9 @@ Using full-text engines to search for information in PKM[^1] and generate answer
 - https://www.elastic.co/elasticsearch/
   - https://www.elastic.co/guide/en/elastic-stack/current/index.html
   - https://github.com/elastic/elasticsearch
+- https://qdrant.tech/
+  - https://qdrant.tech/documentation/
+  - https://github.com/qdrant/qdrant
 - https://typesense.org/
   - https://typesense.org/docs/
   - https://github.com/typesense/typesense
