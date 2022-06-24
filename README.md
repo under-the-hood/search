@@ -1,4 +1,4 @@
-# 🔍 Full-text engines research
+# 🔍 Full-text search engines research
 
 Using full-text engines to search for information in PKM[^1] and generate answers.
 
